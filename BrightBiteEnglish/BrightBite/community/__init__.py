@@ -1,3 +1,0 @@
-"""BrightBite standalone application."""
-
-__version__ = "1.5.0-en"
