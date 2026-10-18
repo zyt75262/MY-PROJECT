@@ -1,0 +1,589 @@
+{
+  "schema_version": 1,
+  "dataset_type": "synthetic_demo",
+  "notice": "Synthetic demonstration recipes and estimated prices in CNY. Ingredients and suitability have not been professionally reviewed. Not individual nutrition or myopia-treatment advice.",
+  "recipes": [
+    {
+      "id": "oats",
+      "name": "Oat Porridge",
+      "category": "主食",
+      "cost_cents": 200,
+      "ingredients": [
+        "Oats",
+        "Water"
+      ],
+      "allergens": [
+        "麸质"
+      ],
+      "vegetarian": true,
+      "meal_slots": [
+        "早"
+      ],
+      "steps": "Rinse the oats and simmer with water until soft.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "millet",
+      "name": "Millet and Pumpkin Porridge",
+      "category": "主食",
+      "cost_cents": 250,
+      "ingredients": [
+        "Millet",
+        "Pumpkin"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "早"
+      ],
+      "steps": "Dice the pumpkin and simmer with millet until cooked.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "sweet",
+      "name": "Steamed Sweet Potato",
+      "category": "主食",
+      "cost_cents": 200,
+      "ingredients": [
+        "Sweet potato"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "早"
+      ],
+      "steps": "Wash the sweet potato and steam until fully cooked inside.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "bread",
+      "name": "Whole-Wheat Bread",
+      "category": "主食",
+      "cost_cents": 300,
+      "ingredients": [
+        "Whole-wheat flour",
+        "Water",
+        "Yeast"
+      ],
+      "allergens": [
+        "麸质"
+      ],
+      "vegetarian": true,
+      "meal_slots": [
+        "早"
+      ],
+      "steps": "This example uses a basic recipe. Check the full ingredient and allergen list on purchased bread.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "egg",
+      "name": "Hard-Boiled Egg",
+      "category": "蛋白",
+      "cost_cents": 200,
+      "ingredients": [
+        "Egg"
+      ],
+      "allergens": [
+        "蛋"
+      ],
+      "vegetarian": false,
+      "meal_slots": [
+        "早"
+      ],
+      "steps": "Boil until both the white and yolk are fully set.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "soy",
+      "name": "Plain Soy Milk",
+      "category": "蛋白",
+      "cost_cents": 200,
+      "ingredients": [
+        "Soybeans",
+        "Water"
+      ],
+      "allergens": [
+        "大豆"
+      ],
+      "vegetarian": true,
+      "meal_slots": [
+        "早"
+      ],
+      "steps": "Choose unsweetened, fully cooked soy milk. Homemade soy milk must be cooked thoroughly.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "milk",
+      "name": "Plain Milk",
+      "category": "蛋白",
+      "cost_cents": 300,
+      "ingredients": [
+        "Milk"
+      ],
+      "allergens": [
+        "奶"
+      ],
+      "vegetarian": false,
+      "meal_slots": [
+        "早"
+      ],
+      "steps": "Choose a properly produced dairy product suited to your needs.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "yogurt",
+      "name": "Plain Yogurt",
+      "category": "蛋白",
+      "cost_cents": 350,
+      "ingredients": [
+        "Milk",
+        "Yogurt cultures"
+      ],
+      "allergens": [
+        "奶"
+      ],
+      "vegetarian": false,
+      "meal_slots": [
+        "早"
+      ],
+      "steps": "Check the product ingredients and storage conditions.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "apple",
+      "name": "Apple Pieces",
+      "category": "果蔬",
+      "cost_cents": 200,
+      "ingredients": [
+        "Apple"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "早"
+      ],
+      "steps": "Wash, core and cut into suitable pieces.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "orange",
+      "name": "Fresh Orange",
+      "category": "果蔬",
+      "cost_cents": 250,
+      "ingredients": [
+        "Orange"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "早"
+      ],
+      "steps": "Peel and divide into segments.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "category": "果蔬",
+      "cost_cents": 200,
+      "ingredients": [
+        "Banana"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "早"
+      ],
+      "steps": "Peel and slice if desired.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "rice",
+      "name": "Steamed Rice",
+      "category": "主食",
+      "cost_cents": 150,
+      "ingredients": [
+        "White rice",
+        "Water"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Rinse the rice and cook with an appropriate amount of water.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "brown",
+      "name": "Mixed-Grain Rice",
+      "category": "主食",
+      "cost_cents": 200,
+      "ingredients": [
+        "White rice",
+        "Brown rice",
+        "Millet"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Soak the whole grains beforehand and cook with white rice.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "corn",
+      "name": "Steamed Corn",
+      "category": "主食",
+      "cost_cents": 250,
+      "ingredients": [
+        "Corn"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Wash the corn and steam until cooked.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "noodle",
+      "name": "Plain Noodle Soup",
+      "category": "主食",
+      "cost_cents": 300,
+      "ingredients": [
+        "Wheat noodles",
+        "Water"
+      ],
+      "allergens": [
+        "麸质"
+      ],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Cook the noodles in water. Check the packaging for the actual ingredients.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "tofu",
+      "name": "Tomato and Tofu",
+      "category": "蛋白",
+      "cost_cents": 400,
+      "ingredients": [
+        "Tomato",
+        "Tofu",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [
+        "大豆"
+      ],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Cook the tomato until soft, add tofu and a little water, and simmer until cooked.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "mushroomtofu",
+      "name": "Shiitake and Tofu Stew",
+      "category": "蛋白",
+      "cost_cents": 450,
+      "ingredients": [
+        "Shiitake mushrooms",
+        "Tofu",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [
+        "大豆"
+      ],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Cut the mushrooms and tofu and simmer together until cooked.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "chicken",
+      "name": "Carrot and Chicken Stir-Fry",
+      "category": "蛋白",
+      "cost_cents": 600,
+      "ingredients": [
+        "Carrot",
+        "Chicken",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [],
+      "vegetarian": false,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Dice the chicken and cook with carrot until the chicken is fully done.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "fish",
+      "name": "Steamed Fish",
+      "category": "蛋白",
+      "cost_cents": 800,
+      "ingredients": [
+        "Fish",
+        "Ginger",
+        "Salt"
+      ],
+      "allergens": [
+        "鱼"
+      ],
+      "vegetarian": false,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Remove bones carefully and steam with ginger until thoroughly cooked.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "tomatoegg",
+      "name": "Tomato and Egg Stir-Fry",
+      "category": "蛋白",
+      "cost_cents": 400,
+      "ingredients": [
+        "Tomato",
+        "Egg",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [
+        "蛋"
+      ],
+      "vegetarian": false,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Cook the beaten egg, then add softened tomato and stir-fry until done.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "pork",
+      "name": "Pork and Green Pepper Stir-Fry",
+      "category": "蛋白",
+      "cost_cents": 600,
+      "ingredients": [
+        "Green pepper",
+        "Pork",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [],
+      "vegetarian": false,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Cook the pork strips thoroughly, then stir-fry with green pepper.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "lentil",
+      "name": "Lentil and Potato Stew",
+      "category": "蛋白",
+      "cost_cents": 450,
+      "ingredients": [
+        "Cooked lentils",
+        "Potato",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Use edible, fully cooked lentils and simmer with potatoes until cooked.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "peanutchicken",
+      "name": "Peanut and Chicken Stir-Fry",
+      "category": "蛋白",
+      "cost_cents": 600,
+      "ingredients": [
+        "Peanuts",
+        "Chicken",
+        "Cucumber",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [
+        "花生"
+      ],
+      "vegetarian": false,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Cook the chicken through, then add cooked peanuts and cucumber.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "broccoli",
+      "name": "Stir-Fried Broccoli",
+      "category": "果蔬",
+      "cost_cents": 350,
+      "ingredients": [
+        "Broccoli",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Wash and blanch the broccoli, then stir-fry until cooked.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "spinach",
+      "name": "Garlic Spinach",
+      "category": "果蔬",
+      "cost_cents": 300,
+      "ingredients": [
+        "Spinach",
+        "Garlic",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Wash and blanch the spinach, then stir-fry with garlic.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot and Wood Ear Stir-Fry",
+      "category": "果蔬",
+      "cost_cents": 300,
+      "ingredients": [
+        "Carrot",
+        "Wood ear mushrooms",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Soak wood ear mushrooms following food-safety guidance, then cook with carrot.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "cabbage",
+      "name": "Stir-Fried Bok Choy",
+      "category": "果蔬",
+      "cost_cents": 250,
+      "ingredients": [
+        "Bok choy",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Wash and cut the bok choy, then stir-fry until cooked.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "pumpkin",
+      "name": "Steamed Pumpkin",
+      "category": "果蔬",
+      "cost_cents": 250,
+      "ingredients": [
+        "Pumpkin"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Peel, deseed and cut the pumpkin; steam until cooked.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber and Wood Ear Stir-Fry",
+      "category": "果蔬",
+      "cost_cents": 300,
+      "ingredients": [
+        "Cucumber",
+        "Wood ear mushrooms",
+        "Vegetable oil",
+        "Salt"
+      ],
+      "allergens": [],
+      "vegetarian": true,
+      "meal_slots": [
+        "午",
+        "晚"
+      ],
+      "steps": "Prepare the vegetables and stir-fry together until cooked.",
+      "source": "AI-generated demonstration recipe",
+      "review_status": "not_professionally_reviewed"
+    }
+  ]
+}
