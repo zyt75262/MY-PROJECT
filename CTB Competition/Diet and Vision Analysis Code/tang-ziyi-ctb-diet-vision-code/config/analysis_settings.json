@@ -1,0 +1,7 @@
+{
+  "meal_day_counts": {
+    "k1": 92,
+    "k2": 345
+  },
+  "k1_day_header_pattern": "\\d{1,2}月\\d{1,2}日[（(]周."
+}

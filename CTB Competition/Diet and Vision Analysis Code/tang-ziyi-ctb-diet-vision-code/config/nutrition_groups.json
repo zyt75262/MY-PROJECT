@@ -1,0 +1,27 @@
+{
+  "groups": {
+    "lutein": ["pumpkin", "orange", "goji", "corn", "head_cabbage"],
+    "vitamin_a": ["carrot", "liver", "shrimp", "tomato", "eggs", "milk"],
+    "vitamin_b": [
+      "grains", "eggs", "milk", "liver", "potato", "red_beans", "shiitake",
+      "leafy_greens", "onion", "broccoli", "napa_cabbage", "spinach",
+      "lettuce", "tofu"
+    ],
+    "vitamin_c": [
+      "orange", "apple", "bell_pepper", "cucumber", "yam", "watermelon",
+      "cantaloupe", "tomato", "strawberry", "cauliflower", "kiwi",
+      "green_pepper", "blueberry", "grape"
+    ],
+    "vitamin_e": [
+      "nuts", "liver", "eggs", "milk", "corn", "bell_pepper", "tomato",
+      "shrimp", "wood_ear", "red_beans", "spinach", "pumpkin", "blueberry",
+      "grape"
+    ],
+    "zinc": ["liver", "shrimp", "eggs", "milk", "wood_ear", "shiitake", "red_beans"],
+    "dha": ["fish"],
+    "anthocyanin": ["blueberry", "strawberry", "grape"],
+    "high_sugar_oil_fat": [
+      "sugar", "cookies", "ham", "fried_gluten", "soy_chicken", "curry"
+    ]
+  }
+}
