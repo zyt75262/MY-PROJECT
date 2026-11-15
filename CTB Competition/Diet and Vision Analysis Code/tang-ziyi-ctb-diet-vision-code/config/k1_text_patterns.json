@@ -1,5 +1,0 @@
-{
-  "bracketed_content": "[（(]([^（）()]+)[）)]",
-  "weekday_label": "周.",
-  "bracket_block": "[\\u4e00-\\u9fff\\s]*[（(][^（）()]+[）)]"
-}
