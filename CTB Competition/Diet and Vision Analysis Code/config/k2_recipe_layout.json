@@ -1,0 +1,12 @@
+{
+  "date_pattern": "(\\d{4})\\s*年\\s*(\\d{1,2})\\s*月\\s*(\\d{1,2})\\s*日",
+  "date_column": 1,
+  "meal_columns": {
+    "morning_snack": 8,
+    "lunch": 9,
+    "allergy_meal": 10,
+    "afternoon_snack": 11,
+    "fruit": 12
+  },
+  "allergy_meal_noise": ["无", "/", "/ +", "l", "le", "/+", "+"]
+}
