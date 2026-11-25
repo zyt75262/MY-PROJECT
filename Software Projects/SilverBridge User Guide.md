@@ -4,7 +4,7 @@
 
 ### [⬇ Download the Windows App](https://github.com/zyt75262/MY-PROJECT/releases/download/silverbridge-v1.0.0/SilverBridge.zip)
 
-1. Download **SilverBridge-Windows.zip**.
+1. Download **SilverBridge.zip**.
 2. Extract the ZIP completely.
 3. Double-click **SilverBridge.exe**.
 
