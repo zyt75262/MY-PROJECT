@@ -2,7 +2,7 @@
 
 ## Download BrightBite for Windows
 
-### [⬇ Download the Windows App](https://github.com/zyt75262/MY-PROJECT/releases/download/brightbite-v1.0.0/BrightBite-Windows.zip)
+### [⬇ Download the Windows App](https://github.com/zyt75262/MY-PROJECT/releases/download/brightbite-v1.0.0/BrightBite.zip)
 
 1. Download the ZIP file.
 2. Extract it completely.
